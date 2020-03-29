@@ -1,0 +1,8 @@
+{
+  "name": "vue_code_lint",
+  "version": "3.0.0",
+  "description": "工程代码配置规范",
+  "main": "index.js",
+  "author": "cyl",
+  "license": "ISC"
+}
